@@ -2,7 +2,7 @@
 tower defence written in c++/SFML 
 ![Game](game.png)
 Some things needs to be rewritten like move pattern functions in class "Enemy" <its writtem very poorly, probably using A* algorithm would be better than 100 switch cases>.
-Todo in future times:
+Todo in future times:<p>
 1.) whole new map select state, because present implementation only has 1 map generated from file called map.ini, first 4 coordinates stands for tile width, tile height and number on tiles on x and y axis and also every tile in map.ini has its equivalent as .png file :P.
 2.) if the move pattern for enemies would be predicted (because movement pattern for enemies is selected for like every few pixels) also the bullets could use some kind of chasing algorithm( because right now every bullet has shared pointer of targeted enemy and its pretty much impossible for bullets to miss).
 3.) settings state where u could choose your screen resolution.
