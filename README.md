@@ -9,4 +9,4 @@ Todo in future times:<p>
 4.) some kind of wave state, i mean the time when all enemies are gone and u have some time before the next wave.<p>
 5.) maybe wave indicatior which would tell u how many enemies are going in next wave, because right now its like when u kill all remaining enemies the next wave starts. <p>
 6.) Moving hero like in Kingdom Rush? <p>
-7.) Some contex menu when u hover over tower it shows u its stats (damage, range, cost and stuff) <p>
+7.) Some contex menu when u hover over the tower it shows u its stats (damage, range, cost and stuff) <p>
