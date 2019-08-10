@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="States">
+      <UniqueIdentifier>{9048484b-cf67-435b-9f50-bf20f94553ed}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="State.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="GameState.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="Main_menu_state.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="Tile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WaveState.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="BuildingMenu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GUI.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Road.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Grass.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionCircle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Collision_Manager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="State.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="GameState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="Main_menu_state.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="TIle.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WaveState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GUI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BuildingMenu.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Grass.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Road.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionCircle.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Collision_Manager.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="includes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
